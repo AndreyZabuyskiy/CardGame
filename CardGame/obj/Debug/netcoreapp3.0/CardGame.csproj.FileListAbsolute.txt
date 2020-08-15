@@ -1,0 +1,11 @@
+D:\Программирование\C#\Консоль\Задание №9\CardGame\CardGame\bin\Debug\netcoreapp3.0\CardGame.exe
+D:\Программирование\C#\Консоль\Задание №9\CardGame\CardGame\bin\Debug\netcoreapp3.0\CardGame.deps.json
+D:\Программирование\C#\Консоль\Задание №9\CardGame\CardGame\bin\Debug\netcoreapp3.0\CardGame.runtimeconfig.json
+D:\Программирование\C#\Консоль\Задание №9\CardGame\CardGame\bin\Debug\netcoreapp3.0\CardGame.runtimeconfig.dev.json
+D:\Программирование\C#\Консоль\Задание №9\CardGame\CardGame\bin\Debug\netcoreapp3.0\CardGame.dll
+D:\Программирование\C#\Консоль\Задание №9\CardGame\CardGame\bin\Debug\netcoreapp3.0\CardGame.pdb
+D:\Программирование\C#\Консоль\Задание №9\CardGame\CardGame\obj\Debug\netcoreapp3.0\CardGame.csprojAssemblyReference.cache
+D:\Программирование\C#\Консоль\Задание №9\CardGame\CardGame\obj\Debug\netcoreapp3.0\CardGame.AssemblyInfoInputs.cache
+D:\Программирование\C#\Консоль\Задание №9\CardGame\CardGame\obj\Debug\netcoreapp3.0\CardGame.AssemblyInfo.cs
+D:\Программирование\C#\Консоль\Задание №9\CardGame\CardGame\obj\Debug\netcoreapp3.0\CardGame.dll
+D:\Программирование\C#\Консоль\Задание №9\CardGame\CardGame\obj\Debug\netcoreapp3.0\CardGame.pdb
